@@ -30,6 +30,7 @@ body {
   padding: 2rem;
   max-width: 365px;
   width: 100%;
+  box-shadow: 8px 8px 0 0 rgb(0, 0, 0);
 }
 
 .card__img {
@@ -87,7 +88,7 @@ body {
   height: 3.2rem;
 }
 .card__author--name {
-  font-size: 2rem;
+  font-size: 1rem;
   font-weight: bolder;
 }
 .attribution {
